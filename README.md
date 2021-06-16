@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Theodore Glenn
+- 👋 Hello, I’m Theodore Glenn
 - 👀 I’m interested in learning becoming a versatile programmer thats sufficient in more languages than C++
 - 🌱 I’m currently majoring in Computer Science as an undergrad
 - 💞️ I’m looking to collaborate on any projects so far, preferably, helping create a computer game 
