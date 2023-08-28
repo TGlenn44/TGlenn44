@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Theodore Glenn
-- 👀 I’m learning to become a versatile programmer thats sufficient in many high-level languages
+- 👀 I’m learning to become a versatile programmer thats sufficient in many programming languages
 - 🌱 I’m currently an undergrad student majoring in Computer Science & Physics
-- 💞️ I’m looking to collaborate on any projects so far, preferably, helping create a videogame 
+- 💞️ I’m looking to collaborate on any projects! 
 - 📫 How to reach me: glenntheodore01@gmail.com
 
 <!---
