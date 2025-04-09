@@ -1,7 +1,6 @@
-- 👋 Hello, I’m Theodore Glenn
+- 👋 Hello, I’m Theodore (Theo) Glenn
 - 👀 I’m a versatile programmer that's sufficient in many programming languages
 - 🌱 Graduated undergrad with a bachelor's degree in Computer Science & Physics
-- 💞️ I’m looking to collaborate on any projects! 
 - 📫 How to reach me: glenntheodore01@gmail.com
 
 <!---
