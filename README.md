@@ -1,6 +1,7 @@
 - 👋 Hello, I’m Theodore Glenn
-- 👀 I’m a versatile programmer that's sufficient in many languages
-- 🌱 Graduated with a bachelor's degree in Computer Science & Physics
+- 💻 Versatile programmer proficient in multiple languages  
+- 🎓 B.S. in Computer Science & Physics 
+- 🌱 Pursuing an M.S. in Computer Science 
 - 📫 Reach me: glenntheodore01@gmail.com
 
 <!---
